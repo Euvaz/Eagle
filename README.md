@@ -1,2 +1,2 @@
 # Eagle
-A tool which will pick away and safely expose specified Prometheus metrics.
+A tool which picks away and safely exposes specified Prometheus metrics.
